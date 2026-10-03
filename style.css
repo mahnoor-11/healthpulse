@@ -228,9 +228,15 @@ text-align:center;
   letter-spacing: 1px;
 }
 .urdu-tagline {
-  font-size: 13px;
+  font-size: 14px;
   color: #e0e0e0;
   margin-top: 2px;
+  line-height: 2.2;
+  margin-bottom: 14px;
+}
+
+.subtitle {
+  line-height: 2.2;
 }
 
 /* ==========================
